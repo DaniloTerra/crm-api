@@ -1,0 +1,13 @@
+{
+    "name": "vendor/crm-api",
+    "require": {
+        "symfony/http-foundation": "^3.1",
+        "symfony/routing": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "DaniloTerra",
+            "email": "danilo_terra@live.com"
+        }
+    ]
+}
